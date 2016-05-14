@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Random Earth]]></title>
         <description><![CDATA[Random Earth]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/random-earth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 03:21:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 03:21:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/random-earth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hyperloop wants to connect these major European cities with high-speed trains.]]></title>
+            <description><![CDATA[<article><h1>Hyperloop wants to connect these major European cities with high-speed trains.</h1><p>Vienna to Bratislava in eight minutes flat: that's exactly what Hyperloop Transportation Technologies (HTT) is hoping to do with their new proposed high-speed train. The company recently signed a deal with the government of Slovakia to investigate the possibility of building a Hyperloop that would link three European capitals.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa366e6481aeca7fa8b262dffd0faf95dcd6d1c7.jpg"></article>]]></description>
+            <link>http://www.wallpaper.com/lifestyle/hyperloop-wants-to-connect-these-major-european-cities-with-high-speed-trains</link>
+            <guid isPermaLink="false">0e392211-ed6c-4250-a6ff-7e52e8096eeb</guid>
+            <pubDate>Sat, 14 May 2016 03:21:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spotify's Design Lead on Why Side Projects Should Be Stupid]]></title>
             <description><![CDATA[<article><h1>Spotify's Design Lead on Why Side Projects Should Be Stupid</h1><p>Tobias van Schneider lives his life like one big side project. Today, he designs and builds new products for Spotify in New York, but he couldn't have predicted that when he dropped out of school at age 15 to work as an apprentice in a computer shop in Austria.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ed2e3065709ea706d3bf879a08399704e03b23c.jpg"></article>]]></description>
