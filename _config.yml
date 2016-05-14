@@ -1,0 +1,14 @@
+layout_spectrum: 0.17132263584062457
+typography_spectrum: 0.7751629860140383
+color:
+  brandStrength: 0.21335798385553062
+  lightness: 0.8847085661254823
+  saturation: 0.28244158369489014
+  rhythmicContrast: 0.6399472129996866
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: Random Earth
